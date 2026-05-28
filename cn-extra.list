@@ -1,0 +1,27 @@
+# 国内服务补丁（公共 geolocation-cn ruleset 漏掉的高频项） — DIRECT
+# behavior: domain  /  format: text
+
+# 办公 / 文档
++.wps.cn
++.sdocapp.com
++.shimo.im
+
+# 数据 / 工具
++.qcc.com
++.speedtest.cn
++.ping0.cc
+
+# 学术 / 教育
++.pku.edu.cn
++.cn-zhihu.com
+
+# 社区
++.okjike.com
++.linux.do
+
+# 网盘 / 媒体（公共 ruleset 一般有，这里只是兜底冗余）
++.cubox.cc
++.usememos.com
+
+# AI 中间层 / 工具（国内入口）
++.unifuncs.com

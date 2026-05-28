@@ -1,0 +1,41 @@
+# 开发者 / 设计 SaaS 工具 — 建议走稳定节点（🛠 工具 组）
+# behavior: domain  /  format: text
+
+# 设计 / 协作
++.figma.com
++.figma-alpha-api.com
++.dribbble.com
++.mobbin.com
++.refactoringui.com
++.lucide.dev
+
+# 项目 / 知识库
++.linear.app
++.notion.so
++.notion.com
++.notion-static.com
++.atlassian.com
++.trello.com
++.featurebase.app
+
+# 通讯
++.slack.com
++.slack-edge.com
+
+# 部署 / 后端
++.vercel.app
++.vercel.com
++.supabase.com
++.supabase.co
++.stripe.com
++.stripe.network
+
+# 工具 / 资源
++.setapp.com
++.bestofjs.org
+
+# 风投 / 行业资讯（你高频）
++.sequoiacap.com
++.techcrunch.com
++.producthunt.com
++.ycombinator.com

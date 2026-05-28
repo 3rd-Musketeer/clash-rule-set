@@ -1,0 +1,19 @@
+# 国产 AI 服务 — DIRECT
+# 必须优先于公共 AI ruleset 加载，否则会被误判走代理
+# behavior: domain  /  format: text
++.kimi.com
++.moonshot.cn
++.deepseek.com
++.doubao.com
++.volcengine.com
++.tongyi.aliyun.com
++.yuanbao.tencent.com
++.chatglm.cn
++.zhipuai.cn
++.zhipuai.com
++.minimaxi.com
++.xfyun.cn
++.iflytek.com
++.baichuan-ai.com
++.lingyiwanwu.com
++.01.ai

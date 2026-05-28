@@ -1,0 +1,57 @@
+# 海外 AI 服务（公共 ruleset 漏掉或更新滞后的） — 走 🤖 AI 服务 组
+# behavior: domain  /  format: text
+#
+# 注：openai.com / chatgpt.com / anthropic.com / claude.ai 已在
+# MetaCubeX geosite/openai 和 geosite/anthropic 里，这里不重复
+
+# Anthropic 新主域（geosite.anthropic 滞后）
++.claude.com
++.claudeusercontent.com
+
+# 推理网关 / 聚合
++.openrouter.ai
++.poe.com
++.together.ai
++.groq.com
++.replicate.com
++.fireworks.ai
+
+# 编辑器 / 编程类
++.cursor.com
++.cursor.sh
++.zed.dev
++.cline.bot
++.opencode.ai
++.vibekanban.com
++.agentclientprotocol.com
+
+# 搜索 / 问答
++.perplexity.ai
++.duckduckgo.com
+
+# 模型市场 / 评测
++.huggingface.co
++.artificialanalysis.ai
++.nousresearch.com
++.mistral.ai
++.x.ai
++.grok.com
+
+# AI 中间层 / 监控 / 笔记
++.jina.ai
++.helicone.ai
++.langfuse.com
++.granola.ai
++.heynori.com
++.wisme.ai
+
+# 内容生成 / 多模态
++.tripo3d.ai
++.kuse.ai
++.flowith.io
++.floatboat.ai
++.multica.ai
++.aicodemirror.com
++.zenmux.ai
++.slock.ai
++.moxt.ai
